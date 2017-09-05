@@ -5,7 +5,7 @@ A community effort to spell check the FTL Captain's Edition mod for the roguelik
 
 Original Readme:
 
-Welcome traveler. I guess you came here from the FTL forum and know what this is about. If not, than you might want to have a short rundown of what is going on here. Over the last months others and I have created a quite huge modification of the roguelike game FTL by Subset Games. You can find information on the mod here: http://www.ftlgame.com/forum/viewtopic.php?f=11&t=15663 The mod contains quite a bit of text for the player to read, but English is not my native language and eliminating all the typos has been requested quite often. So I uploaded the files containing most of the texts on github to allow multiple people to participate in spell-checking the mod. So this whole repository is really just about spell checking a lot of small text snippets contained in xml capsules.
+Welcome traveler. I guess you came here from the FTL forum and know what this is about. If not, than you might want to have a short rundown of what is going on here. Over the last months others and I have created a quite huge modification of the roguelike game FTL by Subset Games. You can find information on the mod here: https://subsetgames.com/forum/viewtopic.php?f=11&t=15663 The mod contains quite a bit of text for the player to read, but English is not my native language and eliminating all the typos has been requested quite often. So I uploaded the files containing most of the texts on github to allow multiple people to participate in spell-checking the mod. So this whole repository is really just about spell checking a lot of small text snippets contained in xml capsules.
 
 House rules:
 
