@@ -3971,7 +3971,7 @@
 		<event load="TE_STORE_OUTLAW_LIST_BOOSTED"/>
 	</choice>
 	<choice req="CE_AUGMENTS_PIRATE" hidden="true">
-		<text>(Pirate Ship) Use your contacts to the underworld to facilitate trading.</text>
+		<text>(Pirate Ship) Use your contacts in the underworld to facilitate trading.</text>
 		<event>
 			<text>Your crewman's personal contacts and your ship's reputation open up some doors here. The trader reveals that he actually has access to a cargo teleporter and offers to quickly buy some of your hot goods.</text>
 			<choice hidden="true">
